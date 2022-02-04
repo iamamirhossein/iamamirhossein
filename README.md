@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Amirhossein </h1>
+<h1 align="center">Hi 👋, I'm Amirhossein</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-<h3 align="center">A Software Engineer and Backend Developer 🤩😎</h3>
 
+- 📫 How to reach me **Not now**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="#" target="_blank"><img align="center" alt="Linkedin" height="35" width="45" src="src/assets/readme/Linkedin.svg" /></a>
+<a href="https://linkedin.com/in/amir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<p align="left">
-  <a href="https://axios-http.com" target="_blank" rel="noreferrer"><img align="center" alt="REST API" height="35" width="35" src="src/assets/readme/REST-API.png" /></a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img align="center" alt="Git" height="35" width="45" src="src/assets/readme/Git.svg" /></a>
-  <a href="https://scrum.org" target="_blank" rel="noreferrer"><img align="center" alt="Scrum" height="35" width="35" src="src/assets/readme/Scrum.png" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamamirhossein&show_icons=true&locale=en&layout=compact" alt="iamamirhossein" /></p>
 
-<h3 align="left">GitHub Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamamirhossein&show_icons=true&locale=en" alt="iamamirhossein" /></p>
 
-<p align="center">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamamirhossein&show_icons=true&title_color=4596fb&text_color=37474f&bg_color=f5f5f5&icon_color=57f2cc&hide_border=true&border_radius=15&locale=en" />
-</p>
-
-<p align="center">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamamirhossein&show_icons=true&title_color=4596fb&text_color=37474f&bg_color=f5f5f5&icon_color=57f2cc&hide_border=true&border_radius=15&locale=en&layout=compact" />
-</p>
